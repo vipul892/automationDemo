@@ -10,7 +10,7 @@ public class Test1 {
 	@Test
 	public void method1()
 	{
-		System.out.println("this is the method first");
+		System.out.println("Hello Vipul I am Edit Your Code");
 	}
     
 	@BeforeTest
